@@ -5,6 +5,8 @@ I'm Lali, I recently graduated from uni with a Bachelors in Economics. I'm trans
 
 🌱 I’m currently learning R and expanding my python skills
 
+ 💬 I'm proficient in Python, SQL, and learning R
+
 ⚡ Next thing I'm moving on to is a 7 week intense data analysis program from University of Helsinki
 
 👯 I’m looking to collaborate on any projects or hackathon that are data related
