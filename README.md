@@ -1,11 +1,9 @@
 ### Hi there 👋
-I'm Lali, I recently graduated from uni with a Bachelors in Economics. I'm transitioning into tech to become a data analyst and learning the neccessary skills from great online sources. 
+I'm Lali, I recently graduated from uni with a bachelors in economics. I'm transitioning into tech to become a data analyst and learning the neccessary skills from great online sources. 
 
 🔭 I’m currently working on data analysis projects with python from codeacademy
 
-🌱 I’m currently learning R and expanding my python skills
-
- 💬 I'm proficient in Python, SQL, and learning R
+🌱 I’m currently learning R and expanding my python skills and proficient in SQL
 
 ⚡ Next thing I'm moving on to is a 7 week intense data analysis program from University of Helsinki
 
