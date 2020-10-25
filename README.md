@@ -11,7 +11,7 @@ I'm Lali, I recently graduated from uni with a Bachelors in Economics. I'm trans
 
 👯 I’m looking to collaborate on any projects or hackathon that are data related
 
-📫 How to reach me: lalisedumedi@yahoo.com
+📫 How to reach me: Linkdin - Lali Sedumedi
 
 😄 Pronouns: She/Her
 <!--
