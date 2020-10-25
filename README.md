@@ -3,7 +3,7 @@ I'm Lali, I recently graduated from uni with a bachelors in economics. I'm trans
 
 🔭 I’m currently working on data analysis projects with python from codeacademy
 
-🌱 I’m currently learning R and expanding my python skills and proficient in SQL
+🌱 I’m also learning R and expanding my python skills and proficient in SQL
 
 ⚡ Next thing I'm moving on to is a 7 week intense data analysis program from University of Helsinki
 
