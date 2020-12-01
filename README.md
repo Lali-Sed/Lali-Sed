@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Lali, I recently graduated from uni with a bachelors in economics. I'm transitioning into tech to become a financial data analyst and learning the neccessary skills from great online sources. 
+I'm Lali, I recently graduated from uni with a BSc in economics. I'm transitioning into tech to become a financial data analyst and learning the neccessary skills from great online sources. 
 
 🔭 I’m currently working on data analysis projects with python from codeacademy
 
