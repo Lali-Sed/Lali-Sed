@@ -1,15 +1,15 @@
 ### Hi there 👋
-I'm Lali, I recently graduated from uni with a BSc in economics. I'm transitioning into tech to become a financial data analyst and learning the neccessary skills from great online sources. 
+I'm Lali, I'm a research analyst in the investment sector working on improving my proficincy in python, SQL and R.
 
-🔭 I’m currently working on data analysis projects with python from codeacademy
+🔭 I’m currently working on attaining Power BI certification from Microsoft
 
-🌱 I’m also learning R, expanding my python skills and proficient in SQL
+🌱 I’m also expanding my python skills and imporving my proficiency in SQL
 
 ⚡ I've started doing Kaggle short courses on Python and SQL
 
 👯 I’m looking to collaborate on any projects or hackathons that are data related
 
-📫 How to reach me: Linkdin - Lali Sedumedi
+📫 How to reach me: Linkdin - Balekane Sedumedi
 
 😄 Pronouns: She/Her
 <!--
