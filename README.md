@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Lali, I'm a research analyst in the investment sector and I'm currently working on improving my proficincy in python and SQL.
+I'm Lali, I'm a research analyst in the investment sector and I'm currently working on improving my proficincy in python and SQL & power BI.
 
 🔭 I’m currently working on attaining Power BI certification from Microsoft
 
