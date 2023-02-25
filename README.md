@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Lali, I'm a research analyst in the investment sector and I'm currently working on improving my proficiency in Python, R, SQL & Power BI.
 
-🔭 I’m currently working on attaining Power BI certification from Microsoft
+🔭 I’m currently working on PowerBI projects through Udacity
 
 🌱 I’m also expanding my python skills and improving my proficiency in SQL
 
