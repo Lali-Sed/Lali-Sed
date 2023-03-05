@@ -11,7 +11,7 @@ I'm Lali, I'm a research analyst in the investment sector and I'm currently work
 
 📫 How to reach me: Linkdin - Balekane Sedumedi
 
-😄 Pronouns: She/Her
+😄 Pronouns - She/Her
 <!--
 **Lali-Sed/Lali-Sed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
