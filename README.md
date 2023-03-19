@@ -9,7 +9,7 @@ I'm Lali, I'm a research analyst in the investment sector and I'm currently work
 
 👯 I’m looking to collaborate on any projects or hackathons that are data related - Please feel free to reach out
 
-📫 How to reach me: Linkdin - Balekane Sedumedi
+📫 Social Media: Linkdin - Balekane Sedumedi
 
 😄 Pronouns - She/Her
 <!--
