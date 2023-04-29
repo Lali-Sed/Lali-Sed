@@ -5,7 +5,7 @@ I'm Lali, I'm a research analyst in the investment sector and currently working 
 
 🌱 I’m also expanding my python skills and improving my proficiency in SQL
 
-⚡ Also tackling freecodecamp's python and machine learning projects.
+⚡ Also tackling freecodecamp's python and machine learning projects
 
 👯 I’m looking to collaborate on any projects or hackathons that are data related - Please feel free to reach out
 
